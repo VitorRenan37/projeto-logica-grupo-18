@@ -1,1 +1,1 @@
-# eu-dou-ku
+# projeto-logica
